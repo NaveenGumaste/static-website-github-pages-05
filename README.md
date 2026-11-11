@@ -11,18 +11,19 @@
 
 ## 🔗 Live Demo & Deliverables
 
-- 🚀 **Live Website:** [https://<your-username>.github.io/<repo-name>/](https://<your-username>.github.io/<repo-name>/)
-- 📁 **GitHub Repository:** [https://github.com/<your-username>/<repo-name>](https://github.com/<your-username>/<repo-name>)
+- 🚀 **Live Website:** [https://NaveenGumaste.github.io/static-website-github-pages-05/](https://NaveenGumaste.github.io/static-website-github-pages-05/)
+- 📁 **GitHub Repository:** [https://github.com/NaveenGumaste/static-website-github-pages-05](https://github.com/NaveenGumaste/static-website-github-pages-05)
 
-*(Replace `<your-username>` and `<repo-name>` with your actual GitHub username and repository name once published.)*
+_(Replace `<your-username>` and `<repo-name>` with your actual GitHub username and repository name once published.)_
 
 ---
 
 ## 📖 Project Overview
 
-This project demonstrates the process of hosting and publishing static web content for free directly from a GitHub repository using **GitHub Pages**. 
+This project demonstrates the process of hosting and publishing static web content for free directly from a GitHub repository using **GitHub Pages**.
 
 ### Key Features
+
 - **Modern & Responsive UI:** Clean design with custom CSS styling, flexible layout, and gradient styling.
 - **Fast & Lightweight:** Built using pure HTML5 and embedded CSS without bulky frameworks or external dependencies.
 - **Zero Cost & Automated Hosting:** Deployed seamlessly via GitHub's free static hosting infrastructure.
@@ -80,7 +81,7 @@ git push -u origin main
 
 1. Navigate to your repository on [GitHub](https://github.com).
 2. Click on **Settings** (top tab navigation).
-3. In the left sidebar under the *Code and automation* section, select **Pages**.
+3. In the left sidebar under the _Code and automation_ section, select **Pages**.
 4. Under **Build and deployment** > **Source**, choose **Deploy from a branch**.
 5. Under **Branch**:
    - Select `main` from the dropdown.
@@ -91,7 +92,7 @@ git push -u origin main
 
 - Wait 1–2 minutes for GitHub Pages to complete the deployment build.
 - Refresh the **Pages** settings page until you see:
-  > *"Your site is live at `https://<your-username>.github.io/<repo-name>/`"*
+  > _"Your site is live at `https://<your-username>.github.io/<repo-name>/`"_
 - Click the provided URL to view your live website!
 
 ---
